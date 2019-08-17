@@ -1,0 +1,43 @@
+body {
+    background-color: lightblue;
+}
+
+.heading{
+    color:antiquewhite;
+    font-size: 70px;
+    text-align:center;
+}
+
+.sub-heading{
+    color: red;
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+.sub-sub-heading{
+    color: yellow;
+    text-align: center;
+}
+
+.para{
+    font-family: fantasy;
+    font-size: 30px;
+}
+
+.bold{
+    color: purple;
+}
+
+.italics{
+    color: purple;
+}
+
+.subscripts{
+    color: purple;
+}
+
+.myImg{
+    background-size: cover;
+    background-image: url(myImg.jpeg);
+    min-height: 40%;
+}
